@@ -1,0 +1,25 @@
+body {
+  background-color: #767676;
+  color: black;
+}
+
+#topic-shown1 {
+  display: none;
+}
+
+#topic-shown2 {
+  display: none;
+}
+
+#topic-shown3 {
+  display: none;
+}
+
+#topic-shown4 {
+  display: none;
+}
+
+.jumbotron {
+  padding: 50px;
+  color: black;
+}
